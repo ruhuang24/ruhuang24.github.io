@@ -4,5 +4,5 @@ Hi, I am a fourth year Psychology and Design student at UC San Diego, volunteeri
 
 My research interest is exploring the human-centered design methods in mental health area, such as tech-based psychological treatment, early psychological intervention tool, and overall patient ergonomics. My past projects also explored areas in health-related misinformation and prosocial behaviors. 
 
-You can find my CV [here](https://ruhuang24.github.io/assets/cv/Ruijie_Huang.pdf)
+You can find my CV [here](https://ruhuang24.github.io/assets/Ruijie_Huang.pdf)
 
